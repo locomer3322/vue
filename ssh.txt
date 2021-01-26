@@ -1,0 +1,6 @@
+Git Bash 에서
+ssh-keygen 엔터 엔터 엔터 비밀번호 설정하지않고 엔터
+키가 설치된 폴더(cd ~/.ssh)로 가서 두개의 파일 확인
+그중 id_rsa.pub(공개키) 파일 내용을 복사
+github Settings 으로 진입 SSH and GPG keys 에서 New SSH key 만들고 
+붙여넣기 하면됩니다~
